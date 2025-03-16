@@ -21,9 +21,9 @@ This project is no longer actively maintained, it should still work for the fore
 	<hr>
 </p>
 
-<h1 align="center">
+<h2 align="center">
 	This is a little showcase
-</h1>
+</h2>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
 </p>
